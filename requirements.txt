@@ -5,4 +5,4 @@ scikit-learn
 opencv-python-headless
 joblib
 requests
-tensorflow-cpu
+
