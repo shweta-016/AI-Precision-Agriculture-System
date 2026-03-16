@@ -3,7 +3,7 @@ AI Precision Agriculture System
 Streamlit User Interface
 """
 
-from turtle import color
+#from turtle import color
 
 import streamlit as st
 import pandas as pd
