@@ -376,4 +376,4 @@ elif menu == "Dataset Analysis":
 # FOOTER
 # --------------------------------------------------
 
-st.sidebar.write("🌱 AI Precision Agriculture Project")
+st.sidebar.write("🌱 AI Precision Agriculture Project-Shweta Jadhav")
